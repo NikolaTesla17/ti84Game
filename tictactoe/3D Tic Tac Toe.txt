@@ -1,0 +1,26 @@
++ 3D Tic Tac Toe +
+
+Currently can only play against humans.
+To play, run TICTACTO.
+
+Ok, here's how it works:
+
+ _\_\_
+  _\_\_	There are 3 grids, one on top of the other.
+    \ \
+ _\_\_	To win, just get a line of 3, in any direction:
+  _\_\_	sideways, diagonal from one corner to the other,
+    \ \	same place in all 3 levels, etc.
+ _\_\_
+  _\_\_	There is no move checking, so be sure to check
+    \ \	for yourself if you or your friend won.
+
+Limitations:
+No move checking, as stated above
+Any other shortcomings?
+
+Improvements will be attempted on demand:
+	3D grid
+	move checking
+	AI?
+Email suggestions to <francishuang@hotmail.com>
